@@ -1,5 +1,5 @@
-name: Talkybot
-description: A very talkative bot
+name: Hamster
+description: A trial slackbot
 avatar: resources/avatar.png
 background: resources/background.png
 config:
